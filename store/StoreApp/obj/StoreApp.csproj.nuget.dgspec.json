@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\omerr\\Desktop\\MVC\\Store\\StoreApp\\StoreApp.csproj": {}
+    "C:\\Users\\omerr\\Desktop\\MVC\\store\\StoreApp\\StoreApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\omerr\\Desktop\\MVC\\Store\\StoreApp\\StoreApp.csproj": {
+    "C:\\Users\\omerr\\Desktop\\MVC\\store\\StoreApp\\StoreApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omerr\\Desktop\\MVC\\Store\\StoreApp\\StoreApp.csproj",
+        "projectUniqueName": "C:\\Users\\omerr\\Desktop\\MVC\\store\\StoreApp\\StoreApp.csproj",
         "projectName": "StoreApp",
-        "projectPath": "C:\\Users\\omerr\\Desktop\\MVC\\Store\\StoreApp\\StoreApp.csproj",
+        "projectPath": "C:\\Users\\omerr\\Desktop\\MVC\\store\\StoreApp\\StoreApp.csproj",
         "packagesPath": "C:\\Users\\omerr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omerr\\Desktop\\MVC\\Store\\StoreApp\\obj\\",
+        "outputPath": "C:\\Users\\omerr\\Desktop\\MVC\\store\\StoreApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\omerr\\AppData\\Roaming\\NuGet\\NuGet.Config",
