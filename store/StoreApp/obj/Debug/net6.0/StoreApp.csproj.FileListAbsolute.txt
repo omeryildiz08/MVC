@@ -48,3 +48,9 @@ C:\Users\omerr\Desktop\MVC\store\StoreApp\bin\Debug\net6.0\runtimes\win-arm64\na
 C:\Users\omerr\Desktop\MVC\store\StoreApp\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\omerr\Desktop\MVC\store\StoreApp\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\omerr\Desktop\MVC\store\StoreApp\obj\Debug\net6.0\StoreApp.csproj.CopyComplete
+C:\Users\omerr\Desktop\MVC\store\storeapp\bin\Debug\net6.0\StoreApp.staticwebassets.runtime.json
+C:\Users\omerr\Desktop\MVC\store\StoreApp\bin\Debug\net6.0\libman.json
+C:\Users\omerr\Desktop\MVC\store\StoreApp\bin\Debug\net6.0\Entities.dll
+C:\Users\omerr\Desktop\MVC\store\StoreApp\bin\Debug\net6.0\Entities.pdb
+C:\Users\omerr\Desktop\MVC\store\StoreApp\bin\Debug\net6.0\Repositories.dll
+C:\Users\omerr\Desktop\MVC\store\StoreApp\bin\Debug\net6.0\Repositories.pdb
