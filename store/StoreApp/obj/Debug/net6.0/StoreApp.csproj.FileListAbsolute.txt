@@ -54,3 +54,5 @@ C:\Users\omerr\Desktop\MVC\store\StoreApp\bin\Debug\net6.0\Entities.dll
 C:\Users\omerr\Desktop\MVC\store\StoreApp\bin\Debug\net6.0\Entities.pdb
 C:\Users\omerr\Desktop\MVC\store\StoreApp\bin\Debug\net6.0\Repositories.dll
 C:\Users\omerr\Desktop\MVC\store\StoreApp\bin\Debug\net6.0\Repositories.pdb
+C:\Users\omerr\Desktop\MVC\store\StoreApp\bin\Debug\net6.0\Services.dll
+C:\Users\omerr\Desktop\MVC\store\StoreApp\bin\Debug\net6.0\Services.pdb
