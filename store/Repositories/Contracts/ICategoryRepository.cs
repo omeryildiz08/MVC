@@ -1,7 +1,9 @@
 
+using Entities.Models;
+
 namespace Repositories.Contracts
 {
-public interface ICategoryRepositoryIRepositoryBase<Category>
+public interface ICategoryRepository:IRepositoryBase<Category>
 {
 
 

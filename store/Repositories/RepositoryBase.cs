@@ -21,10 +21,7 @@ namespace Repositories
             : _repositoryContext.Set<T>().AsNoTracking();
         }
 
-        IQueryable<T> IRepositoryBase<T>.FindAll(bool trackChanges)
-        {
-            throw new NotImplementedException();
-        }
+        // Removed explicit interface implementation as it is already implemented above
 
          public T? FindByCondition(Expression<Func<T, bool>> expression, bool trackChanges)
         {
